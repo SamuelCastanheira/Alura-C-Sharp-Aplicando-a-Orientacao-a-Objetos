@@ -7,5 +7,8 @@
         Nome = genero; 
     }
 
+    public void toString() {
+        Console.WriteLine(Nome);
+    } 
 
 }
